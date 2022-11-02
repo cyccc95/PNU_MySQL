@@ -20,8 +20,8 @@ insert into board (title,content,id,visitcount) values ('title1','content1','id1
 -- board 테이블의 id 칼럼이 member 테이블의 id 칼럼을 참조하도록 해주는 외래키를 생성
 -- Database -> Reverse Engineer -> MySQL Model -> EER Diagram
 alter table board
-	add constraint board_mem_fk foreign key (id)
-    references member (id);
+	add constraint board_mem_fk foreign key (id)	-- board_mem_fk는 식별자라서 마음대로 작명 / board의 id
+    references member (id);							-- member의 id
 
 select * from spj;
 
