@@ -52,3 +52,4 @@ create table deletedDept (
 -- BEGIN
 -- 	insert into deletedDept values(old.dno, old.dname, old.budget);
 -- END
+
