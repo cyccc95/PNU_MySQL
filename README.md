@@ -18,3 +18,15 @@
 + Trigger
 + DB backup과 관리
 
+### 3장. Database 개념
++ 데이터베이스란
++ Database System
++ Database 정의
++ 개념적 데이터베이스
++ Data Models
++ Database 시스템을 사용하는 이유
++ Database Independence
++ 저장 레코드, 저장 필드, 저장 파일
+
+### 4장. MySQL WorkBench ER 모델링
+
