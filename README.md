@@ -67,4 +67,6 @@
 + 올바른 decomposition 방법
 + Boyce/Codd Normal Form
 
+### 15장. DB 연동 프로그래밍
+
 
