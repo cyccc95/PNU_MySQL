@@ -48,6 +48,13 @@
 + Base relations과 Views
 + Transactions 처리
 
+### 7장. Relational algebra
++ SQL의 relational algebra 요소
++ Relational closure 성질
++ Relational algebra의 확장된 연산자들
++ Relational algebra를 사용한 표현 예제
++ Query 처리 실습
+
 ### 11장. Stored Procedure 프로그래밍
 + Stored procedure
 + procedual 구문
